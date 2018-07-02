@@ -1,0 +1,11 @@
+.download-link{
+    display: inline-block;
+    background-color: blue;
+    color: #FFF !important;
+    padding: 20px 50px;
+    margin: 20px 0;
+}
+
+p {
+    margin-bottom: 40px;
+}
